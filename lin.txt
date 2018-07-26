@@ -1,0 +1,7 @@
+https://gist.githubusercontent.com/redookay/aee82a4cf7545cab161f21bb06353655/raw/35350338679dcf4b1f26eb2e5c36b6da06fa4724/settings_auto.php
+
+https://gist.githubusercontent.com/redookay/fd0bcffc94ae2ff90d1d7623c38b9a92/raw/7cd86a4155ec462dd3c9031b02a26f3acc2572a9/vuln.txt
+
+https://gist.githubusercontent.com/redookay/04af8650fa04663331746a3e0e670ea1/raw/428440a715d6b8f5f072d3a53295cdad686fae52/up.php
+
+https://gist.githubusercontent.com/redookay/c27beefc8dd72ee8179e449ff735a8ed/raw/b5bb1c0492d9f0e3eb8d2df45c93d88c16b2e77c/OsComPayLoad.php
